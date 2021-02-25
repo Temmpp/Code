@@ -1,0 +1,5 @@
+updated_latest_newv2
+https://cdn.discordapp.com/attachments/807596954561413120/814492814707523614/SimpleDLL.dll
+false
+ver
+dll
